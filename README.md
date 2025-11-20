@@ -1,1 +1,1 @@
-# laboratornaya_rabota_10
+# Лабораторная работа 10 - JavaFX
